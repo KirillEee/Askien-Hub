@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/c06e5f8cee6abf2e6c1a00e5a3faa0c0.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KirillEee/Askien-Hub/refs/heads/main/AskienHub"))()
